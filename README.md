@@ -1,3 +1,5 @@
 # hello-world
 This repository is for practicing the GitHub Flow - MW2024
-Type a little bit about yourself here.
+# About Me
+My name is Mary Mbugua.
+Initials are M.M.
